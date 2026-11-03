@@ -204,7 +204,7 @@ This project analyzes a **fictional Indian sales dataset** covering managers, te
 
 <div align="center">
 
-### **Dishant Bhere**
+### **Nilesh Yadav**
 
 **Data Analyst**
 
