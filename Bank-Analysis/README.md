@@ -164,7 +164,7 @@ This project performs an **end-to-end SQL analysis** on a bank lending dataset (
 
 <div align="center">
 
-### **Dishant Bhere**
+### **Nilesh Yadav**
 
 **Data Analyst**
 
