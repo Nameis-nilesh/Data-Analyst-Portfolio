@@ -197,7 +197,7 @@ This project analyzes **BlinkIT grocery delivery sales data** to uncover perform
 
 <div align="center">
 
-### **Dishant Bhere**
+### **Nilesh yadav**
 
 **Data Analyst**
 
